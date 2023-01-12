@@ -1,3 +1,5 @@
+## Made a flower pattern using the python turtle library
+
 import turtle
 t=turtle.Turtle()
 s=turtle.Screen()
